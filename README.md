@@ -11,9 +11,13 @@ CLIENT_ID={your client id my-app}
 
 CLIENT_SECRET={your client secret my-app}
 
+## Start the backend/server:
+
 Start the server:
 
 cd server && npm start
+
+## Start the frontend/client:
 
 Start the client:
 
