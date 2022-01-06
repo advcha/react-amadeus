@@ -15,3 +15,9 @@ cd server && npm start
 Start the client:
 cd client && npm start
 
+## Open
+
+open http://localhost:3000/login
+
+## Screenshot
+![alt text](https://github.com/advcha/images/blob/main/Screenshot%20at%202022-01-05%2022-07-36.png)
