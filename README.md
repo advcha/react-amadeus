@@ -6,8 +6,8 @@ then get your API key from https://developers.amadeus.com/my-apps
 
 # Running the app
 Create a new server/.env file and add your client_id and client_secret credentials as follows:
-CLIENT_ID=foo
-CLIENT_SECRET=bar
+CLIENT_ID={your client id my-app}
+CLIENT_SECRET={your client secret my-app}
 
 Start the server:
 cd server && npm start
