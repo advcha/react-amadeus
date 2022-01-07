@@ -21,7 +21,7 @@ cd server && npm start
 
 Start the client:
 
-cd client && npm run build && npm run serve
+cd client && npm start
 
 ## Open
 
